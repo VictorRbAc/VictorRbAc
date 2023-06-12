@@ -18,7 +18,15 @@ Currently interested in making a career shift towards web development.
 * CSS3
 * JavaScript
 * React
-* MaterialUI * Node, PHP, Express, Postman, Sequelize, React Native, MySQL, Git.
+* MaterialUI
+* Node
+* PHP
+* Express
+* Postman
+* Sequelize
+* React Native
+* MySQL
+* Git.
 
 
 ### Let's Connect!
