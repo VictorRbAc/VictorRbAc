@@ -17,4 +17,4 @@ Some repositories for you to peep into:
 
 ### Let's Connect!
 
-If you're looking for a Full-Stack Developer & Mobile with a passion for creating exceptional digital experiences, I would love to connect with you. Feel free to reach out to me through [GitHub](https://github.com/VictorRbAc) or [LinkedIn](https://www.linkedin.com/in/VictorRbAc). Let's collaborate and build something amazing together!
+If you're looking for a Full-Stack Developer & Mobile with a passion for creating exceptional digital experiences, I would love to connect with you. Feel free to reach out to me through [GitHub](https://github.com/VictorRbAc) or [LinkedIn](https://www.linkedin.com/in/victorvco/). Let's collaborate and build something amazing together!
