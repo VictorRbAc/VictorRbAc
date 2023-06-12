@@ -4,7 +4,7 @@ Hello there! I'm Victor, a passionate and Junior Full-Stack Developer & Mobile e
 
 Currently interested in making a career shift towards web development.
 
-Some repositories for you to peep into:
+### Proyects
 
 * Locool, marketplace: [Locool Deployed](https://tangerine-starburst-231404.netlify.app/)
   [FrontEnd Repo](https://github.com/BackFrontProject/Locool-FrontEnd)
@@ -12,7 +12,9 @@ Some repositories for you to peep into:
 
 
 
+### Technologies
 
+HTML5, CSS3, JavaScript, React, MaterialUI, Node, PHP, Express, Postman, Sequelize, React Native, MySQL, Git.
 
 
 ### Let's Connect!
